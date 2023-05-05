@@ -1,5 +1,4 @@
-# Systematic-Review
-A Systematic Review of the Literature on Machine Learning Methods Applied to High Throughput Phenotyping in Agricultural Production
+# A Systematic Review of the Literature on Machine Learning Methods Applied to High Throughput Phenotyping in Agricultural Production
 
 Authors: Emília A. Nogueira , Bruna M. Oliveira , Renato F. Bulcão-Neto and Fabrizzio Soares
 
